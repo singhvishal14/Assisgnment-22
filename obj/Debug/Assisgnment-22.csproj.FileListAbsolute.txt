@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment-22\Assisgnment-22\obj\Debug\Assisgnment-22.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment-22\Assisgnment-22\obj\Debug\Assisgnment-22.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment-22\Assisgnment-22\obj\Debug\Assisgnment-22.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment-22\Assisgnment-22\bin\Debug\Assisgnment-22.exe.config
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment-22\Assisgnment-22\bin\Debug\Assisgnment-22.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment-22\Assisgnment-22\bin\Debug\Assisgnment-22.pdb
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment-22\Assisgnment-22\obj\Debug\Assisgnment-22.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment-22\Assisgnment-22\obj\Debug\Assisgnment-22.pdb
